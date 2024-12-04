@@ -40,6 +40,8 @@ The main implementation can be found in `Pointnet_Classification_Keras.ipynb`. T
 - Training procedure
 - Evaluation and visualization
 
+Or visit [Colab](https://colab.research.google.com/drive/14XpQFjZxPiXYhyVjapxDg5kHPxu5qF37?usp=sharing)
+
 ## Contact
 If you have any questions or feedback, feel free to contact me at [Maazouz AbdelAziz](https://www.linkedin.com/in/abdelaziz-maazouz/).
 
