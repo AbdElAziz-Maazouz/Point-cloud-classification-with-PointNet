@@ -6,7 +6,7 @@ This repository contains an implementation of PointNet for 3D point cloud classi
 
 PointNet is a neural network architecture that directly consumes point cloud data, which is a set of points in 3D space. The network learns to extract spatial features from the point cloud data and performs classification tasks effectively.
 
-![PointNet Architecture](Images/Pointnet-Architecture.jpg)
+![PointNet Architecture](Images/Pointnet.jpg)
 
 ## Architecture
 
@@ -17,7 +17,7 @@ The implemented PointNet architecture consists of several key components:
 - Global feature aggregation
 - Classification network
 
-![PointNet Details](Images/Pointnet.jpg)
+![PointNet Details](Images/Pointnet-Architecture.jpg)
 
 ## Results
 
@@ -44,9 +44,6 @@ The main implementation can be found in `Pointnet_Classification_Keras.ipynb`. T
 ## Contact
 If you have any questions or feedback, feel free to contact me at [Maazouz AbdelAziz](https://www.linkedin.com/in/abdelaziz-maazouz/).
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
