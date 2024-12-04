@@ -27,11 +27,10 @@ The model has been trained on point cloud data and achieves competitive results 
 
 ## Requirements
 
-- TensorFlow 2.x
+- TensorFlow 
 - Keras
 - NumPy
 - Matplotlib
-- Open3D
 
 ## Usage
 
